@@ -1,7 +1,8 @@
 name: flutter_theme
-description: A new Flutter project.
-version: 0.0.1
+description: Fully customizable, flexible and easy to use theme package for Flutter apps.
+version: 0.0.3
 homepage: https://mohesu.com
+repository: https://github.com/rvndsngwn/flutter_theme.git
 
 environment:
   sdk: '>=2.18.0 <3.0.0'

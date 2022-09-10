@@ -31,6 +31,12 @@ export 'src/universal/switch_list_tile_adaptive.dart';
 export 'src/universal/syntax_highlighter.dart';
 export 'src/universal/theme_mode_switch.dart';
 export 'src/universal/theme_showcase.dart';
+export 'src/utils/app_data_dir/app_data_dir.dart';
+export 'src/utils/app_data_dir/app_data_dir_web.dart';
+export 'src/utils/app_scroll_behavior.dart';
+export 'src/utils/link_text_span.dart';
+export 'src/utils/reset_settings_dialog.dart';
+export 'src/utils/same_types.dart';
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

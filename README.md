@@ -5,6 +5,7 @@ This package made for helping to easy to create a flutter project with themes.
 
 Fully customizable, flexible and easy to use Flutter theme package for Flutter apps.
 
+
 ## Getting started
 
 add this to your pubspec.yaml
@@ -15,9 +16,6 @@ dependencies:
 ```
 
 ## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 void main() async {
