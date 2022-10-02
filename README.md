@@ -5,6 +5,19 @@ This package made for helping to easy to create a flutter project with themes.
 
 Fully customizable, flexible and easy to use Flutter theme package for Flutter apps.
 
+<table>
+  <tr>
+     <td>Light Mode</td>
+     <td>Dark Mode</td>
+     <td>Screenshot</td>
+  </tr>
+  <tr>
+<td><img src="https://raw.githubusercontent.com/mohesu/flutter_theme/master/screenshots/theme_light.gif" width=250 height=480 alt=""></td>
+<td><img src="https://raw.githubusercontent.com/mohesu/flutter_theme/master/screenshots/theme_dark.gif" width=250 height=480 alt=""></td>
+<td><img src="https://raw.githubusercontent.com/mohesu/flutter_theme/master/screenshots/ss.png" width=250 height=480 alt=""></td>
+</tr>
+</table>
+
 
 ## Getting started
 
